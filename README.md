@@ -310,11 +310,7 @@ The work combines statistical evaluation, graph representation learning, implici
 
 **Srijita Biswas**
 
-M.Sc. Statistics | Machine Learning | Graph Neural Networks | Recommendation Systems | Data Science
-
-GitHub: [YOUR_GITHUB_PROFILE](https://github.com/YOUR_USERNAME)
-
-LinkedIn: [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/)
+Machine Learning | Graph Neural Networks | Recommendation Systems | Data Science
 
 ---
 
