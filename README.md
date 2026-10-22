@@ -1,4 +1,3 @@
-# Graph-Neural-Network-Based-Personalized-Fashion-Recommendation-System
 # Graph Neural Network-Based Personalized Fashion Recommendation System
 
 **An end-to-end fashion recommendation system powered by Graph Neural Networks, GraphSAGE, Bayesian Personalized Ranking, and hard negative sampling.**
