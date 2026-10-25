@@ -12,7 +12,7 @@
 Traditional recommendation systems often struggle with sparse purchase histories, large product catalogues, and changing customer preferences. This project addresses these challenges by developing a **Graph Neural Network (GNN)-based personalized fashion recommendation system** using the H&M Personalized Fashion Recommendations dataset.
 ![Recommendation Demo](https://github.com/user-attachments/assets/35b3646c-4edc-4682-b3dc-8bdb98197d6e)
 
-
+![Recommendation Demo2](https://github.com/user-attachments/assets/5b5dd254-1c0e-4c17-bfab-d71ee9edd451)
 
 
 
