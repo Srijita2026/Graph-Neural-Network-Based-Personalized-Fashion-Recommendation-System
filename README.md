@@ -10,6 +10,11 @@
 ## Overview
 
 Traditional recommendation systems often struggle with sparse purchase histories, large product catalogues, and changing customer preferences. This project addresses these challenges by developing a **Graph Neural Network (GNN)-based personalized fashion recommendation system** using the H&M Personalized Fashion Recommendations dataset.
+![Recommendation Demo](https://github.com/user-attachments/assets/35b3646c-4edc-4682-b3dc-8bdb98197d6e)
+
+
+
+
 
 The system models customer–article interactions as a bipartite graph and learns meaningful representations of customers and fashion products. It combines GraphSAGE-based neighborhood aggregation, season-aware embeddings, Bayesian Personalized Ranking (BPR), and structured hard negative sampling to generate personalized product rankings.
 
